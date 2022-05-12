@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+    text-align: center;
+	font-size: 72px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+body {
+	background-image: url(Resource\wallpaper.jpg);
+}
+.wrapper {
+    text-align: center;
+}
+.button {
+	background-color: #CC0000; /* Green */
+	border: none;
+	color: #09F;
+	padding: 40px 80px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 16px;
+	perspective: 1px;
+	font-family: "Comic Sans MS", cursive;
+}
+.button1 {
+	background-color: #09F; /* Green */
+	border: none;
+	color: #CC0000;
+	padding: 40px 80px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 16px;
+	perspective: 1px;
+	font-family: "Comic Sans MS", cursive;
+}
